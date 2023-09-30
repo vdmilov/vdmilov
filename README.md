@@ -1,5 +1,3 @@
-- 🌱 I’m learning Python🐍 and German 🇩🇪
-- 💞️ I’m looking for a Data Analyst role in Sydney, Australia
 - 📫 How to reach me: [telegram](https://t.me/vdmilov)
 
 <!---
